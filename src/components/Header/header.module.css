@@ -1,0 +1,19 @@
+.header {
+    background-color: #242526;
+    padding: 15px 0;
+    color: #fff;
+}
+.header__left {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.header__right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+}
+.logo__text {
+    font-size: 24px;
+}
